@@ -1,0 +1,113 @@
+#techTitle {
+	padding-bottom: 30px;
+}
+
+#skillsDiv {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	padding-bottom: 70px;
+}
+
+#skillsMain {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	flex-direction: row;
+	width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+	html {
+		scroll-behavior: smooth;
+	}
+	#skillsMain {
+		flex-direction: row;
+		width: 320px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	#skillsMain {
+		flex-direction: row;
+	}
+}
+
+.techDiv {
+	width: 320px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 5px;
+	border: 1px solid #333333;
+	margin: 6px;
+}
+
+.techDivTitle {
+	width: 100%;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 14px;
+	background-color: #333333;
+	color: white;
+	padding: 5px;
+}
+
+.tech {
+	width: 64px;
+	max-height: 64px;
+	display: flex;
+	align-items: center;
+	margin: 5px;
+}
+
+.tech img {
+	width: 64px;
+	max-height: 70px;
+}
+
+.tooltip {
+	position: relative;
+}
+
+.tooltip .tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	background-color: #53ed6a;
+	color: #333333;
+	text-align: center;
+	border-radius: 6px;
+
+	padding: 5px 0;
+	position: absolute;
+	z-index: 1;
+	top: 100%;
+	left: 50%;
+	margin-left: -60px;
+	opacity: 0;
+	transition: opacity 0.5s;
+}
+
+.tooltip .tooltiptext::after {
+	content: "";
+	position: absolute;
+	bottom: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: transparent transparent #53ed6a transparent;
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+	opacity: 1;
+}
