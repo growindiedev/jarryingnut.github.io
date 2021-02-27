@@ -12,7 +12,7 @@ module.exports = {
     author: 'Abhishek Ranjan',
     siteUrl: `https://www.github.com/jarryingnut`
   },
-  pathPrefix: "jarryingnut.github.io/portfolio/",
+  pathPrefix: `/portfolio`,
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sass',
