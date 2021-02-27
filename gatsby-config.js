@@ -12,6 +12,7 @@ module.exports = {
     author: 'Abhishek Ranjan',
     siteUrl: `https://www.github.com/jarryingnut`
   },
+  pathPrefix: "/portfolio",
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sass',
@@ -23,8 +24,6 @@ module.exports = {
       }
     },
     `gatsby-transformer-remark`,
-    //`gatsby-transformer-sharp`, 
-    //`gatsby-plugin-sharp`
 ]
 }
 

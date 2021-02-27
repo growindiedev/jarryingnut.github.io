@@ -40,7 +40,7 @@ const About = (props) => {
                 <p>
                 I'm fluent in JavaScript and proficient in TypeScript and the JS/TS web stack (Node, express, React/Redux). 
                 If you'd like to chat, you can contact me through e-mail, LinkedIn , Github and twitter. I'm always interested in hearing about any new hybrid role which involves multiple skills. 
-                This website was written in React and built with Gatsy.js. The source code can be viewed here
+                This website was written in React and built with Gatsy.js. The source code can be viewed <a href="https://github.com/jarryingnut/portfolio" className={aboutStyle.here} target="_blank">here.</a>
                 </p>
                
                 
@@ -75,8 +75,8 @@ const About = (props) => {
                             <span class="tooltiptext">ChakraUI</span>
                             </div>
                             <div class="tech tooltip">
-                            <img src="/assets/tech/nextjs.png" alt="nextjs" />
-                            <span class="tooltiptext">Nextjs</span>
+                            <img src="/assets/tech/gatsby.svg" alt="gatsby" />
+                            <span class="tooltiptext">GatsbyJs</span>
                             </div>
                             
                         </div>
