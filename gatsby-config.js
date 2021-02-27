@@ -13,6 +13,7 @@ module.exports = {
     siteUrl: `https://www.github.com/jarryingnut`
   },
   pathPrefix: `/portfolio`,
+  assetPrefix: `https://jarryingnut.github.io`,
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sass',

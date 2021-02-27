@@ -55,7 +55,7 @@ const About = (props) => {
                             Frontend
                             </div>
                             <div class="tech tooltip">
-                            <img src="/assets/tech/reactlogo2.png" alt="React / React Native" />
+                            <img src="/assets/tech/reactlogo2.png" alt="React" />
                             <span class="tooltiptext">React</span>
                             </div>
                             <div class="tech tooltip">
@@ -177,6 +177,7 @@ const About = (props) => {
                             <img src="/assets/tech/chrome.png" alt="chrome"/>
                             <span class="tooltiptext">Chrome</span>
                             </div>
+                            
                         </div>
 
                         <div class="techDiv" id="testing" data-aos="fade-up">
