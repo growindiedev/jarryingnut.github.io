@@ -1,6 +1,6 @@
 ---
 title: 'First post'
-date:  '2019-10-01'
+date:  '2021-01-01'
 sinopsis: "The first post, bla bla bla bla bla"
 
 

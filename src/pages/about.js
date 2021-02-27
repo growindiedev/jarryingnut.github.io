@@ -56,7 +56,7 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/reactlogo2.png" alt="React / React Native" />
-                            <span class="tooltiptext">React / React Native</span>
+                            <span class="tooltiptext">React</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/reduxlogo2.png" alt="Redux" />
@@ -76,7 +76,7 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/nextjs.png" alt="nextjs" />
-                            <span class="tooltiptext">nextjs</span>
+                            <span class="tooltiptext">Nextjs</span>
                             </div>
                             
                         </div>
@@ -103,17 +103,22 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/firebase.png" alt="firebase.js"/>
-                            <span class="tooltiptext">firebase</span>
+                            <span class="tooltiptext">Firebase</span>
                             </div>
                             
                             <div class="tech tooltip">
                             <img src="/assets/tech/graphql.svg" alt="graphql"/>
-                            <span class="tooltiptext">graphql</span>
+                            <span class="tooltiptext">GraphQl</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/mongodb.png" alt="mongodb"/>
-                            <span class="tooltiptext">mongodb</span>
+                            <span class="tooltiptext">MongoDB</span>
                             </div>
+                            <div class="tech tooltip">
+                            <img src="/assets/tech/apollo.png" alt="apollo"/>
+                            <span class="tooltiptext">Apollo</span>
+                            </div>
+                            
                         </div>
 
                         <div class="techDiv" id="devops" data-aos="fade-up">
@@ -134,7 +139,7 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/aws.png" alt="aws"/>
-                            <span class="tooltiptext">aws</span>
+                            <span class="tooltiptext">AWS</span>
                             </div>
                         </div>
 
@@ -148,7 +153,7 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/typescript.png" alt="typescript" />
-                            <span class="tooltiptext">typescript</span>
+                            <span class="tooltiptext">TypeScript</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/java.png" alt="Java" />
@@ -170,7 +175,7 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/chrome.png" alt="chrome"/>
-                            <span class="tooltiptext">chrome</span>
+                            <span class="tooltiptext">Chrome</span>
                             </div>
                         </div>
 
@@ -180,15 +185,15 @@ const About = (props) => {
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/cypress.png" alt="cypress" />
-                            <span class="tooltiptext">cypress</span>
+                            <span class="tooltiptext">Cypress</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/jest.png" alt="jest" />
-                            <span class="tooltiptext">jest</span>
+                            <span class="tooltiptext">Jest</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/react-testing-library.png" alt="react testing library" />
-                            <span class="tooltiptext">react testing library</span>
+                            <span class="tooltiptext">React Testing Library</span>
                             </div>
                         </div>
                         
