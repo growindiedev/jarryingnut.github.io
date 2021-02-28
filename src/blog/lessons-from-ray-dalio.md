@@ -13,6 +13,7 @@ sinopsis: "5 Steps to get what you want"
 
 Tags: Life Lesson
 
+
 > “Truth — more precisely, an accurate understanding of reality — is the essential foundation for producing good outcomes.” ―Ray Dalio
 
 By this time of the year many of us are writing new year’s resolutions and goals we want to accomplish throughout the year. While this is a wonderful practice that invites for self-reflection and looking ahead at how to bridge our desired future self with our current one, many people forfeit their goals within one to two weeks after setting them.
@@ -43,7 +44,7 @@ Now that we’ve defined ***why*** do most people (or businesses) miss their g
 
 ***According to Dalio:***
 
-*First you have to pick what you are going after **— your goals.** Your choice of goals will determine your direction. As you move toward them, you will encounter **problems.** Some of those problems will bring you up against your own weaknesses. How you react to the pain that causes is up to you. If you want to reach your goals, you must be calm and analytical so that you can accurately **diagnose** your problems, **design** a plan that will get you around them, and **do what’s necessary** to push through to results.*
+First you have to pick what you are going after **— your goals.** Your choice of goals will determine your direction. As you move toward them, you will encounter **problems.** Some of those problems will bring you up against your own weaknesses. How you react to the pain that causes is up to you. If you want to reach your goals, you must be calm and analytical so that you can accurately **diagnose** your problems, **design** a plan that will get you around them, and **do what’s necessary** to push through to results.
 
 Breaking these 5-steps down and putting them into context we can see how to apply them to our own objectives:
 
@@ -66,7 +67,7 @@ A great quote that goes along with this principle comes from [Kamal Ravikant](h
 
 According to the book Principles, all problems are hidden “*gems*” which by reflecting on them and figuring out their true lesson we gather the sufficient knowledge to overcome them and come ahead stronger. Ray Dalio adds that “Pain” is nature’s way of telling you to change and evolve past your current state.
 
-In order to reflect on “pain moments” Bridgewater Associates - the largest hedge fund in the world - developed a “pain-button” that prompts you to write a brief journal entry when you’re facing a personal or professional challenge. *(I normally use [Penzu.com](http://penzu.com/) for these purposes)*
+In order to reflect on “pain moments” Bridgewater Associates - the largest hedge fund in the world - developed a “pain-button” that prompts you to write a brief journal entry when you’re facing a personal or professional challenge. *(I normally use [Notion](http://notion.so/) for these purposes)*
 
 **Key Principles:**
 

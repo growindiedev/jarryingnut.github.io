@@ -17,15 +17,14 @@ h1 {
 	background-color: #c3f8ff;
 	font-size: 1.2rem;
 	margin: 0 .5rem 0 .5rem;
-}
 
-.attr:hover {
-	background-color: transparent;
+	&:hover {
+		background-color: transparent;
+	}
 }
 
 .attr-link {
 	font-family: 'Anonymous Pro', monospace;
-	// background-color: #C3F8FF;
 	list-style: none;
 	font-size: 1.2rem;
 	margin: 0 .3rem 0 .3rem;
@@ -85,6 +84,7 @@ i {
 	}
 
 	.content-main {
+		padding-top: 0;
 		padding: 2rem 4rem 5rem;
 	}
 }

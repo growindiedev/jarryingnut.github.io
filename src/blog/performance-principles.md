@@ -13,6 +13,7 @@ sinopsis: "Habits and principles to work efficiently"
 
 Created: Sep 7, 2020 5:08 PM
 Tags: Life Lesson
+Resource: Atomic Habits By James Clear
 
 **The Pareto principle**
 

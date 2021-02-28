@@ -8,12 +8,11 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Abhishek Ranjan',
+    title: "Abhishek Ranjan",
     author: 'Abhishek Ranjan',
-    siteUrl: `https://www.github.com/jarryingnut`
+    siteUrl: `https://jarryingnut.github.io`
   },
-  pathPrefix: `/portfolio`,
-  assetPrefix: `https://jarryingnut.github.io`,
+ 
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sass',
@@ -27,5 +26,8 @@ module.exports = {
     `gatsby-transformer-remark`,
 ]
 }
+
+
+
 
 

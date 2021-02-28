@@ -34,13 +34,20 @@ const About = (props) => {
             <div className={aboutStyle.derecha}>
                 <p>
                 My name is Abhishek Ranjan and I'm a full-stack developer. I’m currently working towards the completion of my degree in computer science. 
-                I have various hobbies but I’m extremely passionate about stock markets, startups, and the innovation happening around me probably because 
-                of my dream to start my own company one day and change lives by creating something meaningful for the world.
+                I’m extremely passionate about stock markets, startups, and the innovation happening around me probably because of my dream to start my own
+                 company one day and change lives by creating something meaningful for the world. My passion for developing is unmatched. Every day I wake up pumped to collaborate, design and code.
+                  I love every aspect of bringing an idea to fruition and find each step of the way exciting.
                 </p>
                 <p>
-                I'm fluent in JavaScript and proficient in TypeScript and the JS/TS web stack (Node, express, React/Redux). 
-                If you'd like to chat, you can contact me through e-mail, LinkedIn , Github and twitter. I'm always interested in hearing about any new hybrid role which involves multiple skills. 
-                This website was written in React and built with Gatsy.js. The source code can be viewed <a href="https://github.com/jarryingnut/portfolio" className={aboutStyle.here} target="_blank">here.</a>
+                I'm fluent in JavaScript and proficient in TypeScript and the JS/TS web stack. If you'd like to chat, you can contact me through e-mail, LinkedIn, Github, and Twitter. 
+                This website was written in React and built with Gatsy.js. The source code can be viewed <a href="https://github.com/jarryingnut/jarryingnut.github.io" className={aboutStyle.here} target="_blank">here</a>.
+                </p>
+
+                <h3 style={{textAlign: "center"}}> Hobbies & Interests </h3>
+                <p>
+                Besides my passion for coding, I love to play soccer and read books, specifically biographies, and business. 
+                I'm a huge fan of Walter Isaacson and Stephen King. I also love to travel, swim and jog. I'm a Netflix and Youtube binger.
+                On Wednesdays, you can find me yelling at my TV when my favorite Survivor castaway gets voted off the island.
                 </p>
                
                 
