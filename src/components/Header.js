@@ -35,7 +35,7 @@ const Header = () => {
                         <a href='https://linkedin.com/in/jarryingnut' target='_blank'><i className="fab fa-linkedin"></i></a>
                         <a href='https://stackoverflow.com/users/15129870/jarryingnut' target='_blank'><i className="fab fa-stack-overflow"></i></a>
                         <a href="mailto:abhishekranjan622@outlook.com"><i class="fab fa fa-envelope" ></i></a>
-                        <a href="./documents/Resume.pdf" target="_blank"><i class="fab fa fa-file-pdf" ></i></a>
+                        <a href="./documents/Abhishek.pdf" target="_blank"><i class="fab fa fa-file-pdf" ></i></a>
 
 
                         </div>
