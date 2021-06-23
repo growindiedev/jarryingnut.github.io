@@ -32,14 +32,16 @@ const About = (props) => {
             </div>
 
             <div className={aboutStyle.derecha}>
+
+            
                 <p>
-                My name is Abhishek Ranjan and I'm a full-stack developer. I’m currently working towards the completion of my degree in computer science. 
-                I’m extremely passionate about stock markets, startups, and the innovation happening around me probably because of my dream to start my own
-                 company one day and change lives by creating something meaningful for the world. My passion for developing is unmatched. Every day I wake up pumped to collaborate, design and code.
-                  I love every aspect of bringing an idea to fruition and find each step of the way exciting.
+                Hi! My name is Abhishek Ranjan. I'm a full-stack developer with an engineering degree in computer science. 
+                I’m extremely passionate about stock markets, startups, and the innovation happening around me because I dream of starting 
+                 my own company one day and changing lives by creating something meaningful for the world. My passion for development is unmatched.
+                 Every day I wake up pumped to collaborate, design and code. I love every aspect of bringing an idea to fruition and find each step of the way exciting.
                 </p>
                 <p>
-                I'm fluent in JavaScript and proficient in TypeScript and the JS/TS web stack. If you'd like to chat, you can contact me through e-mail, LinkedIn, Github, and Twitter. 
+                I'm fluent in JavaScript and have experience in TypeScript and the JS/TS web stack. If you'd like to chat, you can contact me through e-mail, LinkedIn, Github, and Twitter. 
                 This website was written in React and built with Gatsy.js. The source code can be viewed <a href="https://github.com/jarryingnut/jarryingnut.github.io" className={aboutStyle.here} target="_blank">here</a>.
                 </p>
 
@@ -101,8 +103,8 @@ const About = (props) => {
                             <span class="tooltiptext">Express</span>
                             </div>
                             <div class="tech tooltip">
-                            <img src="/assets/tech/sequelize.png" alt="Sequelize" />
-                            <span class="tooltiptext">Sequelize</span>
+                            <img src="/assets/tech/prisma.svg" alt="Prisma ORM" />
+                            <span class="tooltiptext">Prisma</span>
                             </div>
                             <div class="tech tooltip">
                             <img src="/assets/tech/postgreslogo.png" alt="PostgreSQL" />
