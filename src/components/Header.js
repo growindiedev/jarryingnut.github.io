@@ -23,7 +23,7 @@ const Header = () => {
                 <div className="header-main">
                         <div className="dev">
                         <h1>{data.site.siteMetadata.title}</h1>
-                        <span className="attr">Maverick</span>
+                        <span className="attr">Seeker</span>
                         <span className="dot">•</span>
                         <span className="attr">Developer</span>
                         <span className="dot">•</span>
