@@ -1,5 +1,13 @@
 const portfolioItems = [
-    
+    {
+        title: 'Lount',
+        sinopsis: 'A fullstack chat application built with graphql and reactjs.',
+        desc: 'This is one of the most exciting projects I have built. It\'s a chat application. Backend is built with Graphql, Apollo, postgreSQl and Prisma ORM. Front end is bult with Reactjs and ChakraUI. The app is deployed on AWS EC2 and uses graphql subscriptions for sending/receiveing messages and you can react to them with emojis in real time.',
+        img: './portfolio/lountchat.png',
+        repo: 'https://github.com/jarryingnut/lount',
+        live: 'http://18.118.78.168/',
+        idx: 1
+    },
     
     {
         title: 'Gigapost',
@@ -8,7 +16,7 @@ const portfolioItems = [
         img: './portfolio/gigapost.png',
         repo: 'https://github.com/jarryingnut/gigapost',
         live: 'https://gigapost.herokuapp.com',
-        idx: 1
+        idx: 2
     },
 
     {
@@ -18,17 +26,10 @@ const portfolioItems = [
         img: './portfolio/thessa.png',
         repo: 'https://github.com/jarryingnut/thessa',
         live: 'https://thessa-26121999.web.app',
-        idx: 2
-    },
-
-    {
-        title: 'Lount',
-        sinopsis: 'A fullstack chat application built with graphql and reactjs.',
-        desc: 'This is one of the most exciting projects I have built. It\'s a chat application. Backend is built with Graphql, Apollo, postgreSQl and Prisma ORM. Front end is bult with Reactjs and ChakraUI. The app is deployed on aws and uses graphql subscriptions for sending and receiveing messages.',
-        img: './portfolio/lount.png',
-        repo: 'https://github.com/jarryingnut/lount',
         idx: 3
     },
+
+    
 
     {
         title: 'Portfolio',
