@@ -54,7 +54,7 @@ const Header = () => {
           <a href="mailto:abhishekranjan622@outlook.com">
             <i class="fab fa fa-envelope"></i>
           </a>
-          <a href="./documents/cv.pdf" target="_blank">
+          <a href="./documents/web3cv.pdf" target="_blank">
             <i class="fab fa fa-file-pdf"></i>
           </a>
         </div>
