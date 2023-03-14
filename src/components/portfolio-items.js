@@ -1,5 +1,28 @@
 const portfolioItems = [
   {
+    title: "Radiohead",
+    sinopsis:
+      "Say goodbye to centralized streaming platforms and hello to a new era of community-driven music distribution.",
+    desc:
+      "Introducing Radiohead: a decentralized music marketplace where artists can list NFT songs and set their preferred revenue distribution, and super-fans can mint limited edition NFTs representing a stake in future revenue and exclusive access. Say goodbye to centralized streaming platforms and hello to a new era of community-driven music distribution. Deployed on Goerli and FTMtestnet for now, planning to launch on mainnet soon",
+    img: "./portfolio/radio.png",
+    repo: "https://github.com/jarryingnut/radiohead",
+    live: "https://radioweb3.vercel.app/",
+    idx: 1,
+  },
+
+  {
+    title: "Blocksurance V2",
+    sinopsis:
+      "We provide tokenized asset insurance. Our mission is to help investors keep their DeFi investments safe",
+    desc:
+      "Ethereum ecosystem and DeFi has been a world of wonder for many. From Uniswap to Compound, there has been tremendous success in the space. However, there have been many high profile hacks and failures as well. The ecosystem is riddled with security problems, and so we got inspired to building the Uniswap of insurance. Blocksurance protocol provides incentivised liquidity pools, that you can use to obtain force majeure coverage for your tokenized assets. Also, you can participate in providing liquidity to the pools in exchange for profit share and rewards. We won Polygon BUIDL IT : Summer 2022 hackathon: https://devpost.com/software/blocksurance-v2",
+    img: "./portfolio/Blocksurance.png",
+    repo: "https://devpost.com/software/blocksurance-v2",
+    live: "https://blocksurance-mumbai.netlify.app/",
+    idx: 2,
+  },
+  {
     title: "Fundship",
     sinopsis:
       "A decentralized crowdfunding platform for raising funds on polygon blockchain",
@@ -8,42 +31,19 @@ const portfolioItems = [
     img: "./portfolio/fundship.png",
     repo: "https://github.com/jarryingnut/fundship",
     live: "https://fundship.vercel.app",
-    idx: 1,
+    idx: 3,
   },
 
   {
     title: "Ethereum Speedrun",
     sinopsis: "Projects built with Scaffold-eth framework",
     desc:
-      "Etherium Speed Run/BuidlGuidl is a platform/community built by Austin Griffith of the Ethereum foundation to onboard web2 developers to web3 as fast as possible using the Scaffold-eth framework. Scaffold-eth provides an off-the-shelf stack for rapid prototyping on Ethereum, giving developers access to state-of-the-art tools to learn and ship an Ethereum-based dApp quickly. I have built several dapps including a single pool DEX, decentralized staking, and Token Vendor, etc, and am still contributing to the community. Austin even sponsored me on the gas fees to get my ENS [ jarryingnut.eth ] :D",
+      "Etherium Speed Run/BuidlGuidl is a platform/community built by Austin Griffith of the Ethereum foundation to onboard web2 developers to web3 as fast as possible using the Scaffold-eth framework. Scaffold-eth provides an off-the-shelf stack for rapid prototyping on Ethereum, giving developers access to state-of-the-art tools to learn and ship an Ethereum-based dApp quickly. I have built several dapps including a single pool DEX, decentralized staking, and Token Vendor, etc, and am still contributing to the community.",
     img: "./portfolio/scaffold-eth.png",
     repo:
       "https://buidlguidl.com/builders/0x7383Db2EFDB0cbDb37Ef60672dd95EF490bcB573",
     live:
       "https://buidlguidl.com/builders/0x7383Db2EFDB0cbDb37Ef60672dd95EF490bcB573",
-    idx: 2,
-  },
-
-  {
-    title: "NFT Bazaar",
-    sinopsis: "A marketplace for NFTs.",
-    desc:
-      "The dapp lets you create, buy, sell, resell NFTs on polygon blockchain. Built with Nextjs, ethersjs, Hardhat and Solidity. It is live on polygon mumbai testnet",
-    img: "./portfolio/nft-bazaar.png",
-    repo: "https://github.com/jarryingnut/nft-bazaar",
-    live: "https://nft-bazaar.vercel.app",
-    idx: 3,
-  },
-
-  {
-    title: "NFT RPG game",
-    sinopsis:
-      "A really cool multiplayer RPG game built with ERC721 token standard",
-    desc:
-      "This is the first serious blockchain project I built when I was just starting my web3 journey and buildspace helped me with this. I learned a lot about NFTs/ERC-721 token standard. In this game, you basically mint character NFT and play as a character and that character must attack some boss we created. You might need other players to defeat the boss. It's built with React/Solidity/Hardhat stack and is live on rinkeby testnet.",
-    img: "./portfolio/nft-game.png",
-    repo: "https://github.com/jarryingnut/nft-game",
-    live: "https://nftcardgame.vercel.app",
     idx: 4,
   },
 
