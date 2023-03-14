@@ -18,7 +18,7 @@ const portfolioItems = [
     desc:
       "Ethereum ecosystem and DeFi has been a world of wonder for many. From Uniswap to Compound, there has been tremendous success in the space. However, there have been many high profile hacks and failures as well. The ecosystem is riddled with security problems, and so we got inspired to building the Uniswap of insurance. Blocksurance protocol provides incentivised liquidity pools, that you can use to obtain force majeure coverage for your tokenized assets. Also, you can participate in providing liquidity to the pools in exchange for profit share and rewards. We won Polygon BUIDL IT : Summer 2022 hackathon: https://devpost.com/software/blocksurance-v2",
     img: "./portfolio/Blocksurance.png",
-    repo: "https://devpost.com/software/blocksurance-v2",
+    repo: "https://github.com/blocksurance-dao/blocksurance-v2",
     live: "https://blocksurance-mumbai.netlify.app/",
     idx: 2,
   },
